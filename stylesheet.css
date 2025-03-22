@@ -1,0 +1,70 @@
+body{
+    width :60%;
+    margin-left: 20%;
+    margin-right: 20%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.5em;
+}
+
+p {
+    text-align: justify;
+    margin :0;
+}
+
+img {
+    width:60%;
+    margin-left: 20%;
+    margin-right: 20%;
+    align-content: center;
+}
+
+blockquote {
+    background-color: beige;
+    padding : 1%;
+    margin :0;
+}
+
+ul{
+    margin-bottom: 1%;
+}
+ol{
+    margin-bottom: 1%;
+}
+
+h1{
+    font-size: 4rem;
+    margin-bottom: 2%;
+}
+h2{
+    font-size: 3.5rem;
+    margin-bottom: 2%;
+}
+h3{
+    font-size: 3rem;
+    margin-bottom: 2%;
+}
+h4{
+    font-size: 2.5rem;
+    margin-bottom: 2%;
+}
+h5{
+    font-size: 2rem;
+    margin-bottom: 2%;
+}
+h6{
+    font-size: 1.5rem;
+    margin-bottom: 2%;
+}
+
+.filetree{
+  font-family: "VT323", monospace;
+  font-weight: 400;
+  font-style: normal;
+  background-color:black;
+  color:green;
+}
+
+.filetree a{
+    color : green;
+    text-decoration: none;
+}
