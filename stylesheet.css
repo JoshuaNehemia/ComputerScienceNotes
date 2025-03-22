@@ -61,10 +61,10 @@ h6{
   font-weight: 400;
   font-style: normal;
   background-color:black;
-  color:green;
+  color:white;
 }
 
 .filetree a{
-    color : green;
+    color : white;
     text-decoration: none;
 }
